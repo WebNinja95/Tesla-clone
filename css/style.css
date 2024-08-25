@@ -34,7 +34,10 @@ nav ul li{
 nav ul li a{
     text-decoration: none;
     
-    
+}
+
+nav ul li a:hover{
+    color: rgba(12, 2, 58, 0.097);;
 }
 
 main{
